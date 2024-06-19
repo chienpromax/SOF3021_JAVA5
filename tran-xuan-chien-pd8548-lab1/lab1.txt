@@ -1,0 +1,1 @@
+java -jar tran-xuan-chien-pd08548-demo-0.0.1-SNAPSHOT.jar
